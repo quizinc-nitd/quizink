@@ -6,6 +6,7 @@ languageCode = "en-us"
 disqusShortname = "quizink"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+publishDir = "docs"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
