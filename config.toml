@@ -26,7 +26,7 @@ paginate = 5 #frontpage pagination
   slogan = ""
   description = "An e-magazine for the quizzers, by the quizzers" # meta description
   # logo
-  logo = "/img/portfolio/quizink.png"
+  logo = "/quizink/img/portfolio/quizink.png"
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "QuizInc"
   authorLink = "https://quizinc.in/"
