@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on QuizInk</title>
-    <link>/quizink/categories/</link>
+    <link>https://quiznc.in/quizink/categories/</link>
     <description>Recent content in Categories on QuizInk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Aug 2020 12:15:00 +0530</lastBuildDate>
     
-	<atom:link href="/quizink/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://quiznc.in/quizink/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>football</title>
-      <link>/quizink/categories/football/</link>
+      <link>https://quiznc.in/quizink/categories/football/</link>
       <pubDate>Sun, 30 Aug 2020 12:15:00 +0530</pubDate>
       
-      <guid>/quizink/categories/football/</guid>
+      <guid>https://quiznc.in/quizink/categories/football/</guid>
       <description></description>
     </item>
     
     <item>
       <title>quiz</title>
-      <link>/quizink/categories/quiz/</link>
+      <link>https://quiznc.in/quizink/categories/quiz/</link>
       <pubDate>Sun, 30 Aug 2020 12:15:00 +0530</pubDate>
       
-      <guid>/quizink/categories/quiz/</guid>
+      <guid>https://quiznc.in/quizink/categories/quiz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>politics</title>
-      <link>/quizink/categories/politics/</link>
+      <link>https://quiznc.in/quizink/categories/politics/</link>
       <pubDate>Thu, 20 Aug 2020 12:15:00 +0530</pubDate>
       
-      <guid>/quizink/categories/politics/</guid>
+      <guid>https://quiznc.in/quizink/categories/politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>photography</title>
-      <link>/quizink/categories/photography/</link>
+      <link>https://quiznc.in/quizink/categories/photography/</link>
       <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
       
-      <guid>/quizink/categories/photography/</guid>
+      <guid>https://quiznc.in/quizink/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>/quizink/categories/code/</link>
+      <link>https://quiznc.in/quizink/categories/code/</link>
       <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
       
-      <guid>/quizink/categories/code/</guid>
+      <guid>https://quiznc.in/quizink/categories/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travel</title>
-      <link>/quizink/categories/travel/</link>
+      <link>https://quiznc.in/quizink/categories/travel/</link>
       <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
       
-      <guid>/quizink/categories/travel/</guid>
+      <guid>https://quiznc.in/quizink/categories/travel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/quizink/categories/design/</link>
+      <link>https://quiznc.in/quizink/categories/design/</link>
       <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
       
-      <guid>/quizink/categories/design/</guid>
+      <guid>https://quiznc.in/quizink/categories/design/</guid>
       <description></description>
     </item>
     
