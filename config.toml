@@ -1,5 +1,4 @@
 baseurl = "/quizink"
-relativeURLs = true
 title = "QuizInk"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
