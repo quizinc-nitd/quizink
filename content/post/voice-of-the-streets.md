@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "/img/portfolio/voice-of-the-streets/voice-of-the-streets.jpg"
+image = "img/portfolio/voice-of-the-streets/voice-of-the-streets.jpg"
 date = "2020-08-31T12:06:00+05:30"
 title = "Voice of the Streets"
 writer = "Soumya Ranjan"
