@@ -10,6 +10,11 @@ publishDir = "docs"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [privacy]
   # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
   [privacy.googleAnalytics]
