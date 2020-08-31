@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>music on QuizInk</title>
+    <link>/quizink/categories/music/</link>
+    <description>Recent content in music on QuizInk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Aug 2020 12:06:00 +0530</lastBuildDate>
+    
+	<atom:link href="/quizink/categories/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Voice of the Streets</title>
+      <link>/quizink/post/voice-of-the-streets/</link>
+      <pubDate>Mon, 31 Aug 2020 12:06:00 +0530</pubDate>
+      
+      <guid>/quizink/post/voice-of-the-streets/</guid>
+      <description>&lt;p&gt;&lt;em&gt;“There’s not a man that can’t be thrown, not a horse that can’t be rode, a bull that can’t be stopped, there’s not a disco that I Coke La Rock can’t rock”
+-Coke La Rock.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

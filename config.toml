@@ -97,7 +97,7 @@ paginate = 5 #frontpage pagination
     link = "https://www.facebook.com/theignorantzen"
     email = "letter2srm@gmail.com"
     bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+      " "
     ]
     facebook      = "https://www.facebook.com/theignorantzen"
     linkedin      = "full profile url in linkedin"
@@ -105,11 +105,10 @@ paginate = 5 #frontpage pagination
     github        = "https://github.com/theignorantzen"
 
     [params.writers."Abishek Gupta"]
-    link = "https://www.facebook.com/theignorantzen"
+    link = "https://www.facebook.com/shah.abishek"
     email = "gupta.abishek.ofc@gmail.com"
     bio = [
-      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+      " "
     ]
-    facebook      = "https://www.facebook.com/theignorantzen"
-    linkedin      = "full profile url in linkedin"
-    instagram     = "full profile url in instagram"
+    facebook      = "https://www.facebook.com/shah.abishek"
+    linkedin      = "https://www.linkedin.com/in/abishek07"
