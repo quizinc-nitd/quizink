@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QuizInk</title>
-    <link>https://quizink.in/</link>
+    <link>/quizink/</link>
     <description>Recent content on QuizInk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 12:06:00 +0530</lastBuildDate>
     
-	<atom:link href="https://quizink.in/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/quizink/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Voice of the Streets</title>
-      <link>https://quizink.in/post/voice-of-the-streets/</link>
+      <link>/quizink/post/voice-of-the-streets/</link>
       <pubDate>Mon, 31 Aug 2020 12:06:00 +0530</pubDate>
       
-      <guid>https://quizink.in/post/voice-of-the-streets/</guid>
+      <guid>/quizink/post/voice-of-the-streets/</guid>
       <description>&lt;p&gt;&lt;em&gt;“There’s not a man that can’t be thrown, not a horse that can’t be rode, a bull that can’t be stopped, there’s not a disco that I Coke La Rock can’t rock”
 -Coke La Rock.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>https://quizink.in/about/</link>
+      <link>/quizink/about/</link>
       <pubDate>Mon, 10 Aug 2020 21:05:33 +0530</pubDate>
       
-      <guid>https://quizink.in/about/</guid>
+      <guid>/quizink/about/</guid>
       <description>This is the e-magazine of QuizInc, the offical quizzing club of NIT Durgapur.
 The website is powered by Hugo and is hosted on GitHub Pages.
 Like what you see? Contact us on our official social platforms or drop us an e-mail and we&amp;rsquo;ll get back to you!</description>
