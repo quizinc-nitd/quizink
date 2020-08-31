@@ -1,5 +1,5 @@
 baseurl = "/quizink"
-title = "QuizInk"
+title = "QuizInk - The e-magazine"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname

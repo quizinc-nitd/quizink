@@ -2,7 +2,7 @@
   <div id="site-title" class="site-title">
     {{ if ( ne .Site.Title "" ) }}
     <a href="{{ .Site.BaseURL | relLangURL }}">
-      <img src="{{ .Site.Params.Logo }}" class="logo" alt="" />
+      <img src="{{ .Site.Params.Logo }}" class="logo" width="210" height="150" alt="" />
     </a>
     {{ end }}
   </div>
@@ -22,15 +22,13 @@
     <ul id="menu-primary-items" class="menu-primary-items">
       {{ $page := . }} {{ range .Site.Menus.main }}
       <li
-        class='menu-item {{ if eq ("/") (.URL) }}menu-item-type-custom menu-item-object-custom{{ else }}menu-item-type-post_type menu-item-object-page{{ end }} {{ if $page.IsMenuCurrent "main" . }}current-menu-item current_page_item{{ end }}'
-      >
+        class='menu-item {{ if eq ("/") (.URL) }}menu-item-type-custom menu-item-object-custom{{ else }}menu-item-type-post_type menu-item-object-page{{ end }} {{ if $page.IsMenuCurrent "main" . }}current-menu-item current_page_item{{ end }}'>
         <a href="{{ .URL | absURL }}">{{ .Name }}</a>
         {{ if .HasChildren }}
         <ul class="sub-menu">
           {{ range .Children }}
           <li
-            class='menu-item {{ if eq ("/") (.URL) }}menu-item-type-custom menu-item-object-custom{{ else }}menu-item-type-post_type menu-item-object-page{{ end }} {{ if $page.IsMenuCurrent "main" . }}current-menu-item current_page_item{{ end }}'
-          >
+            class='menu-item {{ if eq ("/") (.URL) }}menu-item-type-custom menu-item-object-custom{{ else }}menu-item-type-post_type menu-item-object-page{{ end }} {{ if $page.IsMenuCurrent "main" . }}current-menu-item current_page_item{{ end }}'>
             <a href="{{ .URL | absURL }}">{{ .Name }}</a>
           </li>
           {{ end }}

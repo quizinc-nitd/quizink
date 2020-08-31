@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QuizInk</title>
+    <title>QuizInk - The e-magazine</title>
     <link>/quizink/</link>
-    <description>Recent content on QuizInk</description>
+    <description>Recent content on QuizInk - The e-magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Aug 2020 12:06:00 +0530</lastBuildDate>
