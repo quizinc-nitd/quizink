@@ -83,21 +83,28 @@ paginate = 5 #frontpage pagination
     bio = [
       "Techie. Nerd maybe. Noob guitarist. Loves science, mathematics, history, linguistics, music and football."
     ]
-    facebook      = "full profile url in facebook"
-    linkedin      = "full profile url in linkedin"
-    instagram     = "full profile url in instagram"
+    facebook      = "https://www.facebook.com/ArkaSeth5/"
+    linkedin      = "https://www.linkedin.com/in/arkaseth/"
+    instagram     = "https://www.instagram.com/arka2000/?hl=en"
+    github        = "https://github.com/arkaseth"
 
-    [params.writers."Göran Svensson"]
-    link = "https://appernetic.io/"
-    email = "goran@molnsys.com"
+    [params.writers."Soumya Ranjan"]
+    link = "https://www.facebook.com/theignorantzen"
+    email = "letter2srm@gmail.com"
     bio = [
       "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
     ]
-    facebook      = "full Göran profile url in facebook"
-    googleplus    = "full profile url in googleplus"
-    twitter       = "full profile url in twitter"
+    facebook      = "https://www.facebook.com/theignorantzen"
     linkedin      = "full profile url in linkedin"
-    stackoverflow = "full profile url in stackoverflow"
     instagram     = "full profile url in instagram"
-    github        = "full profile url in github"
-    pinterest     = "full profile url in pinterest"
+    github        = "https://github.com/theignorantzen"
+
+    [params.writers."Abishek Gupta"]
+    link = "https://www.facebook.com/theignorantzen"
+    email = "gupta.abishek.ofc@gmail.com"
+    bio = [
+      "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    ]
+    facebook      = "https://www.facebook.com/theignorantzen"
+    linkedin      = "full profile url in linkedin"
+    instagram     = "full profile url in instagram"
