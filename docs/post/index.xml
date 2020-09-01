@@ -6,7 +6,7 @@
     <description>Recent content in Posts on QuizInk - The e-magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Aug 2020 12:06:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 11:34:00 +0530</lastBuildDate>
     
 	<atom:link href="/quizink/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       <guid>/quizink/post/voice-of-the-streets/</guid>
       <description>&lt;p&gt;&lt;em&gt;“There’s not a man that can’t be thrown, not a horse that can’t be rode, a bull that can’t be stopped, there’s not a disco that I Coke La Rock can’t rock”
 -Coke La Rock.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Step Towards Teleportation </title>
+      <link>/quizink/post/step-towards-teleportation/</link>
+      <pubDate>Tue, 01 Sep 2020 11:34:00 +0530</pubDate>
+      
+      <guid>/quizink/post/step-towards-teleportation/</guid>
+      <description>&lt;p&gt;If we are to make a massive investment in a new transportation system, then the return should by rights be equally massive.&lt;/p&gt;</description>
     </item>
     
   </channel>
