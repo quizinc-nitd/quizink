@@ -26,7 +26,7 @@ Compared to the all alternatives, it should ideally be:
 
 Is there truly a new mode of transport – a fifth mode after planes, trains, cars and boats – that meets those criteria and is practical to implement? Many ideas for a system with most of those properties have been proposed and should be acknowledged.
 
-![Prototype](/quizink/img/portfolio/step-towards-teleportation/proto.png)
+<img src="/quizink/img/portfolio/step-towards-teleportation/proto.png" width="670" height="504">
 
 **Hyperloop** is the only latest innovative ideas which can change the actual idea of the transportation world upside down.
 
@@ -34,7 +34,7 @@ Is there truly a new mode of transport – a fifth mode after planes, trains, ca
 
 Hyperloop is a new mode of transport that seeks to change this paradigm by being both fast and inexpensive for people and goods. Hyperloop is also unique in that it is an open design concept, similar to Linux.
 
-![Energy](/quizink/img/portfolio/step-towards-teleportation/energy.png)
+<img src="/quizink/img/portfolio/step-towards-teleportation/energy.png" width="670" height="593">
 
 Hyperloop consists of a low pressure tube with capsules that are transported at both low and high speeds throughout the length of the tube. The capsules are supported on a cushion of air, featuring pressurized air and aerodynamic lift. The capsules are accelerated via a magnetic linear accelerator affixed at various stations on the low pressure tube with rotors contained in each capsule. Passengers may enter and exit Hyperloop at stations located either at the ends of the tube, or branches along the tube length.
 
@@ -61,7 +61,7 @@ The overall cost of the Hyperloop passenger capsule version is expected to be un
 
 This is where things get interesting, as for most of its existence Hyperloop’s development has been powered by startups. After publishing the white paper, Elon Musk handed over the responsibility by challenging startups to see who could actually bring the technology to market.
 
-![Loop](/quizink/img/portfolio/step-towards-teleportation/loop.png)
+<img src="/quizink/img/portfolio/step-towards-teleportation/loop.png" width="670" height="376">
 
 The important thing to remember, which admittedly is a little tricky, is that Hyperloop is effectively the name of the product, not the company. Most of the companies have Hyperloop in the title, but there isn't a company that is Hyperloop.
 

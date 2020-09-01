@@ -35,7 +35,7 @@ Within the next few years DJ’s and Rappers were popping up at every block part
 
 In the winter of that same year a rap group emerged called Sugar Hill Gang comprised of Englewood, New Jersey natives Michael “Wonder Mike” Wright, Henry “Big Bank Hank” Jackson, and Guy “Master Gee” O’Brien. They released a rap song titled “Rappers Delight”. This song was over 14 minutes long and used the “Good Times by Chic” sample in the background. Rappers Delight went on to achieve the top 40 billboard spot in 1980.
 
-<img src="/quizink/img/portfolio/voice-of-the-streets/rappers-delight.jpg" width="512" height="458">
+<img src="/quizink/img/portfolio/voice-of-the-streets/rappers-delight.jpg" width="670" height="598">
 <!-- ![Rapper's Delight](/quizink/img/portfolio/voice-of-the-streets/rappers-delight.jpg) -->
 
 And with this history was made. What was once considered to be just fad rapidly grew into the most popular genre of music of this decade. Rap is all about words and beats. Language and background was never a barrier for it. With this we hope that many more gully boys will express themselves and discover the society in their own style and lyrics as never before.
