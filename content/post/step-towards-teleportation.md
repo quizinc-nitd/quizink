@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/step-towards-teleportation/hyperloop.jpg"
+image = "img/portfolio/step-towards-teleportation/hyperloop.png"
 date = "2020-09-01T11:34:00+05:30"
 title = "A Step Towards Teleportation "
 writer = "Abishek Gupta"
