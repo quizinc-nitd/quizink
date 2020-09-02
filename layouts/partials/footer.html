@@ -1,9 +1,11 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
-    <h1>
-        <a href="{{ .Site.BaseURL | relLangURL }}">
-            <img src="{{ .Site.Params.Logo }}" class="logo" alt="" />
-        </a>
-    </h1>
+    <div class="container">
+        <h1>
+            <a href="{{ .Site.BaseURL | relLangURL }}">
+                <img src="{{ .Site.Params.Logo }}" class="logo" width="100%" alt="" />
+            </a>
+        </h1>
+    </div>
 
     {{ with .Site.Params.Sloganfooter }}
     <p class="site-description">{{ . | default "" | safeHTML }}</p>
