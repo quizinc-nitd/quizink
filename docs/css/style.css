@@ -330,6 +330,17 @@ th {
   margin: 1.5em;
 }
 
+.footer-logo {
+  width: 25%;
+  padding: 5px auto;
+}
+
+@media (max-width: 768px) {
+  .footer-logo {
+    width: 45%;
+  }
+}
+
 img {
   height: auto;
   line-height: 0;
