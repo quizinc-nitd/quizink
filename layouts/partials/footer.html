@@ -1,8 +1,6 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
   <div class="container logo-div">
-    <h1>
-      <img class="footer-logo" src="{{ .Site.Params.Logo }}" alt="" />
-    </h1>
+    <img class="footer-logo" src="{{ .Site.Params.Logo }}" alt="" />
     {{ with .Site.Params.Sloganfooter }}
     <p class="site-description">{{ . | default "" | safeHTML }}</p>
     {{ end }}
