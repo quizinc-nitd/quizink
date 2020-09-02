@@ -26,7 +26,7 @@ Compared to the all alternatives, it should ideally be:
 
 Is there truly a new mode of transport – a fifth mode after planes, trains, cars and boats – that meets those criteria and is practical to implement? Many ideas for a system with most of those properties have been proposed and should be acknowledged.
 
-<img src="/quizink/img/portfolio/step-towards-teleportation/proto.png" width="670" height="504">
+<img src="/quizink/img/portfolio/step-towards-teleportation/proto.png" width="100%">
 
 **Hyperloop** is the only latest innovative ideas which can change the actual idea of the transportation world upside down.
 
