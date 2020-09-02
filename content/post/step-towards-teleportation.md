@@ -9,7 +9,7 @@ categories = [ "science"]
 weight = 2
 +++
 
-Let's travel and yet not let allow time to travel.
+Let's travel and yet not let time to travel.
 
 It ain't the platform 9¾ nor the transporter from the Star Trek Universe. The Eye of Agamotto was a feast to our eyes, sadly, Dr. Strange didn't share the science. But now is the time for fiction to transition into reality.
 
