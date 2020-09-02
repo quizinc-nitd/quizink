@@ -330,6 +330,10 @@ th {
   margin: 1.5em;
 }
 
+.logo-div {
+  margin: 5px auto;
+}
+
 .footer-logo {
   width: 25%;
   margin: 5px auto;
@@ -337,7 +341,7 @@ th {
 
 @media (max-width: 768px) {
   .footer-logo {
-    width: 45%;
+    width: 35%;
   }
 }
 
