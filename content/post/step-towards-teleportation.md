@@ -9,9 +9,13 @@ categories = [ "science"]
 weight = 2
 +++
 
-If we are to make a massive investment in a new transportation system, then the return should by rights be equally massive.
+Let's travel and yet not let allow time to travel.
+
+It ain't the platform 9¾ nor the transporter from the Star Trek Universe. The Eye of Agamotto was a feast to our eyes, sadly, Dr. Strange didn't share the science. But now is the time for fiction to transition into reality.
 
 <!--more-->
+
+If we are to make a massive investment in a new transportation system, then the return should by rights be equally massive.
 
 Compared to the all alternatives, it should ideally be:
 
