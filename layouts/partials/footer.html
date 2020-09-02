@@ -1,13 +1,12 @@
 <footer id="site-footer" class="site-footer" role="contentinfo">
     <div class="container">
         <h1>
-            <img src="{{ .Site.Params.Logo }}" class="logo" width="25%" alt="" />
+            <img src="{{ .Site.Params.Logo }}" width="45%" alt="" />
         </h1>
+        {{ with .Site.Params.Sloganfooter }}
+        <p class="site-description">{{ . | default "" | safeHTML }}</p>
+        {{ end }}
     </div>
-
-    {{ with .Site.Params.Sloganfooter }}
-    <p class="site-description">{{ . | default "" | safeHTML }}</p>
-    {{ end }}
 
     <div id="menu-footer" class="menu-container menu-footer" role="navigation">
         <div class="menu">
