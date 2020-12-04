@@ -79,7 +79,7 @@ paginate = 5 #frontpage pagination
   facebook      = "https://www.facebook.com/quizinc.nitd/"
   email         = "quizinc.nitdgp@gmail.com"
   linkedin      = "https://www.linkedin.com/company/quizinc/"
-  instagram     = "https://www.facebook.com/quizinc.nitd/"
+  instagram     = "https://www.instagram.com/quizincnitdgp/"
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Arka Seth"
   [params.writers]
