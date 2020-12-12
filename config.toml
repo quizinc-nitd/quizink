@@ -113,3 +113,25 @@ paginate = 5 #frontpage pagination
     ]
     facebook      = "https://www.facebook.com/shah.abishek"
     linkedin      = "https://www.linkedin.com/in/abishek07"
+    
+    [params.writers."Souryatanu Saha"]
+    link = "#"
+    email = "souryatanusaha@gmail.com"
+    bio = [
+      "Beetles and eggs and blues and pour a little everything else"
+    ]
+    facebook      = "https://www.facebook.com/sourya.shah.39"
+    linkedin      = ""
+    instagram     = "https://www.instagram.com/souryatanu8/"
+    github        = ""
+    
+    [params.writers."Pranit Pandey"]
+    link = "#"
+    email = "pranithonypandeano@gmail.com"
+    bio = [
+      ""
+    ]
+    facebook      = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""

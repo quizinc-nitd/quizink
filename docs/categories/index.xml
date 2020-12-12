@@ -6,7 +6,7 @@
     <description>Recent content in Categories on QuizInk - The e-magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Sep 2020 11:34:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 12:05:00 +0530</lastBuildDate>
     
 	<atom:link href="/quizink/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,18 @@
     <item>
       <title>science</title>
       <link>/quizink/categories/science/</link>
-      <pubDate>Tue, 01 Sep 2020 11:34:00 +0530</pubDate>
+      <pubDate>Sat, 12 Dec 2020 12:05:00 +0530</pubDate>
       
       <guid>/quizink/categories/science/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>music</title>
-      <link>/quizink/categories/music/</link>
-      <pubDate>Mon, 31 Aug 2020 12:06:00 +0530</pubDate>
+      <title>tech</title>
+      <link>/quizink/categories/tech/</link>
+      <pubDate>Sat, 12 Dec 2020 12:05:00 +0530</pubDate>
       
-      <guid>/quizink/categories/music/</guid>
+      <guid>/quizink/categories/tech/</guid>
       <description></description>
     </item>
     
