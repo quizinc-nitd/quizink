@@ -5,7 +5,7 @@ image = "img/portfolio/signal/signal.jpeg"
 date = "2020-12-12T12:05:00+05:30"
 title = "Should we all be using Signal?"
 writer = "Souryatanu Saha"
-categories = [ "tech", "science"]
+categories = [ "tech", "science", "current affairs"]
 weight = 2
 +++
 
