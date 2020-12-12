@@ -1,9 +1,9 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/batterygate/planned-obsolescence.jpg"
-date = "2020-12-30T11:50:00+05:30"
-title = "Planned Obsolescence and the “Batterygate” Lawsuit"
+image = "img/portfolio/planned-obsolescence/planned-obsolescence.jpg"
+date = "2020-12-12T12:44:00+05:30"
+title = "Planned Obsolescence and the Batterygate Lawsuit"
 writer = "Pranit Pandey"
 categories = ["science", "current affairs"]
 weight = 3

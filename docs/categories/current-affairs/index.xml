@@ -6,7 +6,7 @@
     <description>Recent content in current affairs on QuizInk - The e-magazine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Dec 2020 12:05:00 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Dec 2020 12:44:00 +0530</lastBuildDate>
     
 	<atom:link href="/quizink/categories/current-affairs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,6 +19,15 @@
       <guid>/quizink/post/signal/</guid>
       <description>&lt;p&gt;_&amp;ldquo;There are two types of encryption: one that will prevent your sister from reading your diary and one that will prevent your government.&amp;rdquo;
 -Bruce Schneier&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Planned Obsolescence and the Batterygate Lawsuit</title>
+      <link>/quizink/post/planned-obsolescence/</link>
+      <pubDate>Sat, 12 Dec 2020 12:44:00 +0530</pubDate>
+      
+      <guid>/quizink/post/planned-obsolescence/</guid>
+      <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;From cell phones to household appliances and clothing to automobile tires, some products we use every day could last much longer. But they don&amp;rsquo;t.&amp;quot;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
