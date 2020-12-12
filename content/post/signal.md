@@ -10,7 +10,7 @@ weight = 2
 +++
 
 _"There are two types of encryption: one that will prevent your sister from reading your diary and one that will prevent your government."
--Bruce Schneier"
+-Bruce Schneier"_
 
 <!--more-->
 
