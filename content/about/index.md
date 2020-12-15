@@ -3,7 +3,7 @@ date = "2020-08-10T21:05:33+05:30"
 title = "About Us"
 +++
 
-This is the e-magazine of QuizInc, the offical quizzing club of NIT Durgapur.
+This is the e-magazine of QuizInc, the official quizzing club of NIT Durgapur.
 
 The website is powered by [Hugo](https://gohugo.io/) and is hosted on [GitHub Pages](https://pages.github.com/).
 
