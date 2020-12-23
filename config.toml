@@ -138,7 +138,7 @@ paginate = 5 #frontpage pagination
     
     [params.writers."Saptaparna Patra"]
     link = "#"
-    email = ""
+    email = "saptaparna.patra@gmail.com"
     bio = [
       ""
     ]
