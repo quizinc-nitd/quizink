@@ -135,3 +135,14 @@ paginate = 5 #frontpage pagination
     linkedin      = ""
     instagram     = ""
     github        = ""
+    
+    [params.writers."Saptaparna Patra"]
+    link = "#"
+    email = ""
+    bio = [
+      ""
+    ]
+    facebook      = ""
+    linkedin      = ""
+    instagram     = ""
+    github        = ""
