@@ -56,5 +56,5 @@ Facebook’s intention of using Whatsapp for advertising purposes, potentially c
 
 With that we rest our case, and leave for you to decide if you are ready to jump ship.
 
-You can also check out Moxie Marlinspike’s blog [here](https//moxie.org/blog/) to read some fascinating blogs and gain insight into his philosophy
+You can also check out Moxie Marlinspike’s blog at https//moxie.org/blog/ to read some fascinating blogs and gain insight into his philosophy
 regarding user privacy, data security and a lot more.
