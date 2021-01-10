@@ -10,7 +10,7 @@ weight = 4
 +++
 
 _“Not to have seen the cinema of Ray means existing in the world without seeing the sun or the moon”
-– Akira Kurosowa_
+– Akira Kurosawa_
 
 <!--more-->
 
