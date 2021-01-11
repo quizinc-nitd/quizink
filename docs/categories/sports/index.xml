@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sports on QuizInk - The e-magazine</title>
+    <link>/quizink/categories/sports/</link>
+    <description>Recent content in sports on QuizInk - The e-magazine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2021 11:50:00 +0530</lastBuildDate>
+    
+	<atom:link href="/quizink/categories/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Moneyball?</title>
+      <link>/quizink/post/moneyball/</link>
+      <pubDate>Mon, 11 Jan 2021 11:50:00 +0530</pubDate>
+      
+      <guid>/quizink/post/moneyball/</guid>
+      <description>“(Signing for the NY Mets instead of going to Stanford University) is the only decision I would make in my life about money” – Billy Beane
+During his sophomore and junior years of high school, Billy Beane was someone with whom you would attribute the term “baseball prodigy”. With a batting average of .501, it was nothing short of exceptional, and although it dropped to .300 in his senior year, the scouts were convinced that Beane was going to be the next biggest thing in baseball.</description>
+    </item>
+    
+  </channel>
+</rss>
