@@ -49,7 +49,7 @@ Brian Clough practised something similar to this when he signed Kenny Burns for 
 </figure>
 <div>
 
-Nowadays, due to the advent of sports analytics agencies like Opta and Prozone Sports, utilisation of such metrics has become commonplace. Tackles per 90, goals per 90, saves held vs saves parried, xG (goals expected), et al are few of the common metrics used nowadays to scout the right talent.
+Nowadays, due to the advent of sports analytics agencies like Opta and Prozone Sports, utilisation of such metrics has become commonplace. Tackles per 90, goals per 90, saves held vs saves parried, xG (goals expected), etc are few of the common metrics used nowadays to scout the right talent.
 
 SC Caen, a small club in France, had a diminutive but industrious midfielder. In the 2015-15 season, he had fantastic scores in most of the relevant metrics for his position; 4.8 tackles per game, 2.9 interceptions per game, and 0.9 clearances per game. He was spotted by Leicester City and brought to the club in the 2015-16 season for £7.65M. He, along with Danny Drinkwater (who had signed for the club in 2012 for a small sum) became a vital midfield partnership which helped Leicester City unthinkably clinch the Premier League title in that season. In the next season, the player moved to Chelsea for £35M, netting Leicester a profit of around £27.35M. The player’s name is N’Golo Kanté. He is 5’6.5” tall, which probably was a reason for him being ignored by most clubs, who were probably of the impression that he was too short, but now he is regarded as one of the best box-to-box destructive midfielders in the game.
 
