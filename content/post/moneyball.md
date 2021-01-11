@@ -12,6 +12,8 @@ weight = 5
 _“(Signing for the NY Mets instead of going to Stanford University) is the only decision I would make in my life about money”
 – Billy Beane_
 
+<!--more-->
+
 During his sophomore and junior years of high school, Billy Beane was someone with whom you would attribute the term “baseball prodigy”. With a batting average of .501, it was nothing short of exceptional, and although it dropped to .300 in his senior year, the scouts were convinced that Beane was going to be the next biggest thing in baseball.
 
 The New York Mets picked him up in the first round of MLB draft for what is equivalent to around $400,000 in today’s terms. The team had a lot of high hopes from Beane, but the tougher competition was too much for him. He couldn’t adjust to the higher demands of the professional game, and he retired 5 years after he was drafted.
