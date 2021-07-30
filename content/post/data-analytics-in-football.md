@@ -47,14 +47,14 @@ The way Brentford started recruiting players also changed. They began to follow 
 
 <div class="container">
 <figure>
-  <img src="/quizink/img/portfolio/data-analytics-in-football/img4.jpg" width="50%"/>
+  <img src="/quizink/img/portfolio/data-analytics-in-football/img4.jpg" width="100%"/>
   <figcaption></figcaption>
 </figure>
 <div>
 
 <div class="container">
 <figure>
-  <img src="/quizink/img/portfolio/data-analytics-in-football/img5.jpg" width="50%"/>
+  <img src="/quizink/img/portfolio/data-analytics-in-football/img5.jpg" width="100%"/>
   <figcaption></figcaption>
 </figure>
 <div>
