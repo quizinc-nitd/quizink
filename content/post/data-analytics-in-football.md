@@ -5,7 +5,7 @@ image = "img/portfolio/data-analytics-in-football/img1.jpg"
 date = "2021-07-30T11:50:00+05:30"
 title = "Data Analytics in Football"
 writer = "Prasun Kumar Das"
-categories = ["sports", , "football", "economics", "tech"]
+categories = ["sports", "economics", "tech"]
 weight = 7
 +++
 
