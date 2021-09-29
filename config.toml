@@ -35,7 +35,7 @@ paginate = 5 #frontpage pagination
   logo = "/quizink/img/portfolio/quizink.png"
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
   author = "QuizInc"
-  authorLink = "https://quizinc.in/"
+  authorLink = "https://quizinc.co.in/"
   bio = [
     "The official quizzing club of NIT Durgapur"
   ]
